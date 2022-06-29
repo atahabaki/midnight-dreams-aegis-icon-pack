@@ -1,6 +1,6 @@
 # Midnight Dreams
 
-A black & white icon pack for Aegis 2FA Authenticator.
+A black & white icon pack for [Aegis 2FA](https://github.com/beemdevelopment/Aegis) Authenticator.
 
 <img src="SVG/Amazon.svg" width="100px" height="100px" alt="Amazon" />
 <img src="SVG/Discord.svg" width="100px" height="100px" alt="Discord" />
