@@ -1,0 +1,98 @@
+{
+    "uuid": "b984841a-7240-11ec-90d6-0242ac120003",
+    "name": "Midnight Dreams",
+    "version": 0.3,
+    "icons": [
+        {
+            "filename": "SVG/Amazon.svg",
+            "category": "Social",
+            "issuer": [
+                "amazon"
+            ]
+        },
+        {
+            "filename": "SVG/Discord.svg",
+            "category": "Social",
+            "issuer": [
+                "discord"
+            ]
+        },
+        {
+            "filename": "SVG/Firefox.svg",
+            "category": "Web Browsers",
+            "issuer": [
+                "firefox"
+            ]
+        },
+        {
+            "filename": "SVG/GitHub.svg",
+            "category": "Websites",
+            "issuer": [
+                "github"
+            ]
+        },
+        {
+            "filename": "SVG/Google.svg",
+            "category": "Websites",
+            "issuer": [
+                "google"
+            ]
+        },
+        {
+            "filename": "SVG/Instagram.svg",
+            "category": "Social",
+            "issuer": [
+                "instagram"
+            ]
+        },
+        {
+            "filename": "SVG/LinkedIn.svg",
+            "category": "Social",
+            "issuer": [
+                "linkedin"
+            ]
+        },
+        {
+            "filename": "SVG/Microsoft.svg",
+            "category": "Websites",
+            "issuer": [
+                "microsoft"
+            ]
+        },
+        {
+            "filename": "SVG/Proton.svg",
+            "category": "E-Mail",
+            "issuer": [
+                "proton"
+            ]
+        },
+        {
+            "filename": "SVG/Reddit.svg",
+            "category": "Social",
+            "issuer": [
+                "reddit"
+            ]
+        },
+        {
+            "filename": "SVG/NVIDIA.svg",
+            "category": "Games",
+            "issuer": [
+                "nvidia"
+            ]
+        },
+        {
+            "filename": "SVG/Ubisoft.svg",
+            "category": "Games",
+            "issuer": [
+                "ubisoft"
+            ]
+        },
+        {
+            "filename": "SVG/Epic_Games.svg",
+            "category": "Games",
+            "issuer": [
+                "epic", "games", "epic-games", "epic_games"
+            ]
+        }
+    ]
+}
