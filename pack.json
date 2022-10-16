@@ -1,7 +1,7 @@
 {
     "uuid": "b984841a-7240-11ec-90d6-0242ac120003",
     "name": "Midnight Dreams",
-    "version": 0.3,
+    "version": 0.4,
     "icons": [
         {
             "filename": "SVG/Amazon.svg",
@@ -85,6 +85,13 @@
             "category": "Games",
             "issuer": [
                 "ubisoft"
+            ]
+        },
+        {
+            "filename": "SVG/Razer.svg",
+            "category": "Games",
+            "issuer": [
+                "razer"
             ]
         },
         {
