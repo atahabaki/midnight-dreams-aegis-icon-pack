@@ -15,4 +15,5 @@ A black & white icon pack for [Aegis 2FA](https://github.com/beemdevelopment/Aeg
 <img src="SVG/Proton.svg" width="100px" height="100px" alt="Proton" />
 <img src="SVG/Reddit.svg" width="100px" height="100px" alt="Reddit" />
 <img src="SVG/Razer.svg" width="100px" height="100px" alt="Razer" />
+<img src="SVG/Rockstar.svg" width="100px" height="100px" alt="Razer" />
 <img src="SVG/Ubisoft.svg" width="100px" height="100px" alt="Ubisoft" />
